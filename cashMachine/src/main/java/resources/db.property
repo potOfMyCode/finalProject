@@ -1,0 +1,4 @@
+db.connection.driver = com.mysql.jdbc.Driver
+db.connection.url = jdbc:mysql://localhost:3306/cashmachine?useEncoding=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+db.connection.username = root
+db.connection.password = root

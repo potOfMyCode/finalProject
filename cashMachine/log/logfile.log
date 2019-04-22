@@ -1,0 +1,26 @@
+2019-04-22 23:56:56 INFO  ConnectionPoolHolder:33 - WE ARE IN CONNECTION POOL HOLDER
+2019-04-22 23:59:47 INFO  ConnectionPoolHolder:33 - WE ARE IN CONNECTION POOL HOLDER
+2019-04-23 00:00:41 INFO  Login:43 - HIGHCASHIER with login: kolyaHC1 enter in system.
+2019-04-23 00:01:00 INFO  CancelProductFromCheck:41 - Product with id, attribute_value: 8, 1 successfulle deleted from check
+2019-04-23 00:01:09 INFO  MakeXReport:24 - X-Report successfully created
+2019-04-23 00:01:13 INFO  MakeZReport:38 - Z-Report successfully created
+2019-04-23 00:01:25 INFO  LogOut:16 - User logout successful with login: null
+2019-04-23 00:09:51 INFO  ConnectionPoolHolder:33 - WE ARE IN CONNECTION POOL HOLDER
+2019-04-23 00:14:08 INFO  ConnectionPoolHolder:33 - WE ARE IN CONNECTION POOL HOLDER
+2019-04-23 00:14:10 ERROR JDBCProductFactory:104 - Product not exist! (id)=100
+2019-04-23 00:14:19 INFO  ConnectionPoolHolder:33 - WE ARE IN CONNECTION POOL HOLDER
+2019-04-23 00:14:21 ERROR JDBCProductFactory:104 - Product not exist! (id)=100
+2019-04-23 00:16:22 INFO  ConnectionPoolHolder:33 - WE ARE IN CONNECTION POOL HOLDER
+2019-04-23 00:17:36 INFO  ConnectionPoolHolder:33 - WE ARE IN CONNECTION POOL HOLDER
+2019-04-23 00:18:11 INFO  ConnectionPoolHolder:33 - WE ARE IN CONNECTION POOL HOLDER
+2019-04-23 00:18:19 INFO  ConnectionPoolHolder:33 - WE ARE IN CONNECTION POOL HOLDER
+2019-04-23 00:18:59 INFO  ConnectionPoolHolder:33 - WE ARE IN CONNECTION POOL HOLDER
+2019-04-23 00:21:45 INFO  ConnectionPoolHolder:33 - WE ARE IN CONNECTION POOL HOLDER
+2019-04-23 00:24:44 INFO  ConnectionPoolHolder:33 - WE ARE IN CONNECTION POOL HOLDER
+2019-04-23 00:25:35 INFO  ConnectionPoolHolder:33 - WE ARE IN CONNECTION POOL HOLDER
+2019-04-23 00:27:00 INFO  ConnectionPoolHolder:33 - WE ARE IN CONNECTION POOL HOLDER
+2019-04-23 00:27:06 INFO  ConnectionPoolHolder:33 - WE ARE IN CONNECTION POOL HOLDER
+2019-04-23 00:28:12 INFO  ConnectionPoolHolder:33 - WE ARE IN CONNECTION POOL HOLDER
+2019-04-23 00:28:28 INFO  Login:43 - HIGHCASHIER with login: kolyaHC1 enter in system.
+2019-04-23 00:28:38 INFO  MakeXReport:24 - X-Report successfully created
+2019-04-23 00:28:40 INFO  LogOut:16 - User logout successful with login: null

@@ -21,6 +21,7 @@ Cashmachine
 * Specify values of "mysql.user" and "mysql.password" keys in *../src/main/resources/db.property*
 * Execute script _../sql/finalproject.sql_ to create database
 * cd to root project folder and execute command *mvn clean install*
+* copy artifact ROOT.war from target folder to %TOMCAT%\webapps
     
 ### Running
 * Start Tomcat server by running the script %TOMCAT%\bin\startup .bat for Windows or .sh for Unix based OS.
